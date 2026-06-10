@@ -89,7 +89,9 @@ Rough scoring:
 | 8 years | 1.25 | Long-runway compounder |
 | 10 years | 1.4 | High-quality long runway |
 | 15 years | 1.7 | Super long-cycle opportunity |
-| 20+ years | 2.0 cap | Rare platform or monopoly-like asset |
+| 20+ years | 2.0 cap | Rare supercycle, platform, or monopoly-like asset |
+
+Do not assign runway by sector label alone. AI-driven semiconductor bottlenecks can deserve a 15-20+ year runway when demand is structurally expanding, the company controls a hard-to-replicate choke point, and each technology generation reinforces its position. Conversely, SaaS or platform companies should not automatically receive a long runway if frontier AI models can compress workflow value, commoditize features, weaken seat-based pricing, or shift the profit pool to model/infrastructure providers.
 
 ## Quality Factor
 
@@ -103,9 +105,9 @@ Use Quality Factor to correct for whether growth can remain in the company's inc
 | 0.9-1.1 | Normal high-quality growth company |
 | 1.1-1.3 | Strong moat, pricing power, and customer stickiness |
 | 1.3-1.5 | Monopoly-like, platform, or ecosystem asset |
-| 1.5+ | Rare super-platform; use cautiously |
+| 1.5+ | Rare super-platform or AI-era bottleneck asset; use cautiously |
 
-Evaluate eight questions:
+Evaluate nine questions:
 
 1. Can TAM growth actually accrue to this company?
 2. Does the company have pricing power?
@@ -115,6 +117,7 @@ Evaluate eight questions:
 6. Does growth require heavy capex?
 7. Can competitors quickly catch up or become second/third sources?
 8. Does growth depend on financing or share issuance?
+9. Can frontier AI models erode the product's workflow value, pricing model, or distribution moat?
 
 ## Result Interpretation
 
@@ -143,6 +146,7 @@ Evaluate eight questions:
 - Use normalized EPS.
 - Discount Quality Factor for cyclicality.
 - TAM runway can add support, but supply/demand cycle risk must be deducted.
+- For AI semiconductor supercycles, separate structural demand runway from inventory, capacity, and margin-cycle risk. A semiconductor leader can receive a long TAM Runway Factor if it is a durable bottleneck; the cyclical penalty should mainly flow through normalized EPS and Quality Factor, not an automatic short-runway cap.
 
 ### Turnarounds
 

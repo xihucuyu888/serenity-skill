@@ -85,9 +85,11 @@ TAM\ Runway\ Factor = \sqrt{\frac{Growth\ Duration}{5}}
 |       8 年 |              1.25 | 长坡型成长          |
 |      10 年 |               1.4 | 优质长坡厚雪         |
 |      15 年 |               1.7 | 超级长周期机会        |
-|     20 年+ |            2.0 上限 | 极少数平台/垄断资产     |
+|     20 年+ |            2.0 上限 | 极少数超级周期/平台/垄断资产 |
 
 注意：**不要把 TAM CAGR 直接加到 EPS CAGR 上**，因为 EPS CAGR 通常已经部分反映了 TAM 扩张。TAM 更应该影响的是 runway 和确定性。
+
+注意：**不要按行业标签机械分配 runway**。AI 浪潮下的半导体瓶颈环节，如果需求是结构性扩张、公司掌握难复制的 choke point、且每一代技术迭代都强化其位置，可以给 15-20 年甚至 20 年+ 的超级周期 runway。反过来，SaaS / 平台股也不能天然享受超长 runway；如果 AI 前沿模型会压缩 workflow 价值、商品化功能、削弱 seat-based pricing，或把利润池转移到模型/基础设施层，就应下调 TAM Runway Factor 或 Quality Factor。
 
 ---
 
@@ -103,9 +105,9 @@ TAM\ Runway\ Factor = \sqrt{\frac{Growth\ Duration}{5}}
 |        0.9-1.1 | 正常优质成长股             |
 |        1.1-1.3 | 强壁垒、强定价权、客户粘性高      |
 |        1.3-1.5 | 垄断型、平台型、生态型资产       |
-|           1.5+ | 极少数超级平台，谨慎使用        |
+|           1.5+ | 极少数超级平台或 AI 时代瓶颈资产，谨慎使用 |
 
-## Quality Factor 主要看 8 个问题
+## Quality Factor 主要看 9 个问题
 
 ### 1. TAM 增长能不能落到这家公司？
 
@@ -138,6 +140,10 @@ TAM\ Runway\ Factor = \sqrt{\frac{Growth\ Duration}{5}}
 ### 8. 增长是否依赖融资或增发？
 
 早期公司如果要靠不断融资兑现 TAM，Quality Factor 必须大幅打折。
+
+### 9. AI 前沿模型是否会侵蚀产品价值？
+
+对 SaaS / 平台型公司尤其要看：AI 模型是否会替代原有 workflow、商品化功能模块、削弱按席位收费、降低切换成本，或让利润池转移到模型层 / 基础设施层。如果答案是肯定的，不能因为公司叫 SaaS 或平台就给超长 runway。
 
 ---
 
@@ -207,6 +213,7 @@ TAM\ Runway\ Factor = \sqrt{\frac{Growth\ Duration}{5}}
 * 用 normalized EPS。
 * Quality Factor 打折。
 * TAM runway 可以加分，但周期性必须扣分。
+* 对 AI 半导体超级周期，要把“结构性需求 runway”和“库存 / 扩产 / 毛利率周期”拆开看：如果公司是长期瓶颈，可以给较长 TAM Runway Factor；周期性主要通过 normalized EPS 和 Quality Factor 扣分，而不是机械限制 runway。
 
 ---
 
